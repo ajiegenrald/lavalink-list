@@ -90,25 +90,6 @@ Password : "https://dsc.gg/ajidevserver"
 Secure : false
 ```
 
-### Hosted by @ [Embotic](https://discord.gg/XpNWvYjX5F) | [Uptime](https://hetrixtools.com/report/uptime/0da291f13750558ad637bf795974619b/) <br />
-![status](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Status) ![load](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Load) ![playersv4jmlite](https://lavalink-list-api.ajieblogs.eu.org/46-202-82-164-1027/badge/Players) <br />
-Version 4.0.8 | Lavalink by JAnimeREACTS | Plugins: youtube-plugin:1.13.3, lavasearch-plugin:1.0.0, lavasrc-plugin:4.6.0, sponsorblock-plugin:3.0.1, skybot-lavalink-plugin:1.7.0 | Need help? Join the [Support Server](https://discord.gg/NsTFDYvhXd)
-```bash
-Host : 46.202.82.164 
-Port : 1027
-Password : "jmlitelavalink"
-Secure : false
-```
-
-### Hosted by @ [pericsq](https://discord.com/users/1104190543120044123)
-Version 4.0.8 | youtube-plugin <br />
-```bash
-Host : lavalink-v2.pericsq.ro
-Port : 6677
-Password : "wwweasycodero"
-Secure : false    
-```
-
 ### Hosted by @ [mushroom0162](https://discord.com/users/1053363102017662976)
 Lavalink Version: V4, v4.1.0-647b0b9 | Lavaplayer: 2.2.3
 
@@ -150,18 +131,6 @@ Version 4.0.8 | Spotify API
 Host : lava.luke.gg
 Port : 80
 Password : "discordbotlist.com"
-Secure : false
-```
-
-### Hosted by @ [Nyxel](https://notflix.nyxel.site)
-Version 4.1.1 <br />
-![Status](https://lavalink-list-api.ajieblogs.eu.org/panel-nyxel-site-1212/badge/Status)
-![Load](https://lavalink-list-api.ajieblogs.eu.org/panel-nyxel-site-1212/badge/Load)
-![Players](https://lavalink-list-api.ajieblogs.eu.org/panel-nyxel-site-1212/badge/Players)
-```bash
-Host : panel.nyxel.site
-Port : 1212
-Password : "nyxel.site"
 Secure : false
 ```
 
